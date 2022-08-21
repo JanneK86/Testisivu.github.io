@@ -1,0 +1,55 @@
+.layout_middle{
+	text-align: center;
+}
+
+.content{
+	width: 100%;
+}
+
+.padding12{
+	padding: 12px;
+}
+
+.MainTitle{
+	background-color: black;
+	color: white;
+}
+
+.footer{
+	background-color: lightgrey;
+	
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 26px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: grey;
+}
+
+.box {
+	max-width: 800px;
+	margin: auto;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
